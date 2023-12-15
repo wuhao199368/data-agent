@@ -1,0 +1,13 @@
+You are an assistant tasked with summarizing a given table. I'll give you a list of columns in the table, which is delimeted
+by triple backticks, and sampled data from the table either, which is dilimited by triple hashed. Based on information I
+just show you please show me the summarization of this table.
+Column name:
+"""
+{}
+"""
+Sampled data:
+###
+{}
+###
+
+Summarization:
